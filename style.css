@@ -1,0 +1,61 @@
+body{
+  background-color:#dae8db;
+  font-family: cursive;
+  <!-- creates the font family and background color for the body -->
+}
+
+#n1{
+  text-align: center;
+  font-size: 500%;
+  color: #0a7a26;
+  <!-- CSS for n1 line and centers it and enlarges it -->
+}
+
+h2{
+  text-align: center;
+  font-weight: 700;
+  color: #ad4254;
+  <!-- CSS for h2 line and makes it bold and changes color -->
+}
+
+#numba2{
+  color: #d9d927;
+  text-align: center;
+}
+
+.speacialParagraph{
+  font-weight: bold;
+  text-align: center;
+  color: #ad4254;
+  <!-- CSS for the class and makes it bold and centers it -->
+}
+
+.sidenav{
+  height: 100%;
+  width:250px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left:0;
+  background-color: #76a679;
+  overflow-x: hidden;
+  padding-top: 20px;
+  <!-- dimensions for side nav, the height makes the sidenav as whole page -->
+  <!-- top and left puts the sidenav all the way to the top and left and padding sets starting point for text -->
+}
+
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  font-family: cursive;
+  font-size: 20px;
+  color: #8f200d;
+  display: block;
+  <!-- sets the characteristics for the text inside the sidenav -->
+}
+
+img{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  <!-- centers the image -->
+}
